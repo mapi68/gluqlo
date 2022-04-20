@@ -9,5 +9,5 @@
 
 ## Installation
 ```bash
-curl -sSfL https://raw.githubusercontent.com/mapi68/gluqlo/gluqlo-install | bash
+https://raw.githubusercontent.com/mapi68/gluqlo/master/gluqlo-install
 ```
