@@ -1,0 +1,6 @@
+#!/bin/bash
+
+GL=gluqlo
+
+wget -P /tmp/ https://github.com/mapi68/"$GL"/raw/master/"$GL"_latest_armhf.deb
+sudo apt install -qq -y /tmp/"$GL"_latest_armhf.deb; rm -rf /tmp/"$GL"_latest_armhf*
