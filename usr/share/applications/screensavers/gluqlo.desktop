@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=Gluqlo
+GenericName=Desktop clock
+Comment=Raspberry Pi armhf ported of Gluqlo
+Icon=gluqlo
+Exec=/usr/libexec/xscreensaver/gluqlo -root
+TryExec=/usr/libexec/xscreensaver/gluqlo
+StartupNotify=false
+Terminal=false
+Type=Application
+OnlyShowIn=LXDE;
+Categories=LXDE;Screensaver;Utility;Application;

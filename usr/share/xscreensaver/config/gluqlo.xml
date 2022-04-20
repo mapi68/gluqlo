@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<screensaver name="gluqlo" _label="Gluqlo">
+	<command arg="-root"/>
+	<hgroup>
+		<select id="Mode">
+			<option id="24h" _label="24h mode"/>
+			<option id="12h" _label="12h mode (AM/PM)" arg-set="-ampm"/>
+		</select>
+	</hgroup>
+	<_description>
+Gluqlo is a Linux remake of well-known Fliqlo screensaver. This version is based on Open Flipqlo 2.0.
+
+Written by Alexander Kovalenko; 2014.
+
+Raspberry Pi armhf ported by Massimo Pissarello; 2022.
+	</_description>
+</screensaver>
