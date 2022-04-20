@@ -2,6 +2,7 @@
 
 <screensaver name="gluqlo" _label="Gluqlo">
 	<command arg="-root"/>
+	<video href="https://www.youtube.com/watch?v=XhT7PBwpMIo"/>
 	<hgroup>
 		<select id="Mode">
 			<option id="24h" _label="24h mode"/>
