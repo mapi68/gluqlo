@@ -1,2 +1,2 @@
 # gluqlo
-Gluqlo: Fliqlo for Linux
+Gluqlo is a beautiful clock and screensaver for Raspberry Pi
