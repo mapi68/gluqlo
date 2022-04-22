@@ -9,5 +9,4 @@ TryExec=/usr/libexec/xscreensaver/gluqlo
 StartupNotify=false
 Terminal=false
 Type=Application
-OnlyShowIn=LXDE;
-Categories=LXDE;Screensaver;Utility;Application;
+Categories=Screensaver;Utility;Application;
