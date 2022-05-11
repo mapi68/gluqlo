@@ -10,8 +10,8 @@
 ![gluqlo](images/gluqlo.png)
 
 ## Usage
-If you want to use Gluqlo as a screensaver, you may need to go to Menu ---> Settings ---> Screensaver and select Gluqlo from screensaver menu. 
-If you want to use Gluqlo as a desktop clock, you may need to go to Menu ---> Accessories and select Gluqlo clock from menu. 
+If you want to use Gluqlo as a screensaver, you may need to go to Menu ---> Settings ---> Screensaver and select "Gluqlo" from screensaver menu. 
+If you want to use Gluqlo as a desktop clock, you may need to go to Menu ---> Accessories and select "Gluqlo clock" from menu. 
 
 ## Installation
 ```bash
